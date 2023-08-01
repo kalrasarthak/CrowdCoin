@@ -18,7 +18,7 @@
 # Preview
 
 ### Homepage
-[image](https://github.com/kalrasarthak/CrowdCoin/assets/74910978/37ab39df-d3f7-468c-baa4-ad31aa8854e7)# CrowdCoin
+![image](https://github.com/kalrasarthak/CrowdCoin/assets/74910978/37ab39df-d3f7-468c-baa4-ad31aa8854e7)# CrowdCoin
 
 
 ### All Campgrounds and their location on Map
