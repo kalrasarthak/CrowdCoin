@@ -1,4 +1,4 @@
-# CrowdCoin
+![image](https://github.com/kalrasarthak/CrowdCoin/assets/74910978/37ab39df-d3f7-468c-baa4-ad31aa8854e7)# CrowdCoin
 
 ### A simple webapp designed to be a crowd funding website just like kickstarter.com with EXTRA security achieved through smart contracts
 
@@ -19,7 +19,7 @@
 # Preview
 
 ### Homepage
-<img width="1432" alt="image" src="https://user-images.githubusercontent.com/60484547/216286948-b5234136-7f4d-4b24-878c-afbf3b91756e.png">
+
 
 ### All Campgrounds and their location on Map
 <img width="1431" alt="image" src="https://user-images.githubusercontent.com/60484547/216286997-dd3e9738-64dd-4396-bc3d-d99f0da730f8.png">
