@@ -1,5 +1,5 @@
 # CrowdCoin
-### A simple webapp designed to be a crowd funding website just like kickstarter.com with EXTRA security achieved through smart contracts
+### A simple webapp designed to be a crowd funding website just like kickstarter.com with EXTRA security achieved through smart contracts.
 
 # Features
 - Simple and easy to access UI
