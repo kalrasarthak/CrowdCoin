@@ -1,4 +1,3 @@
-
 ### A simple webapp designed to be a crowd funding website just like kickstarter.com with EXTRA security achieved through smart contracts
 
 # Features
@@ -12,6 +11,7 @@
 - [Solidity](https://soliditylang.org/)
 - [Next.js](https://nextjs.org/)
 - [JavaScript](https://www.javascript.com/)
+
 - [Mocha](https://mochajs.org/)
 
 
@@ -21,11 +21,18 @@
 ![image](https://github.com/kalrasarthak/CrowdCoin/assets/74910978/37ab39df-d3f7-468c-baa4-ad31aa8854e7)# CrowdCoin
 
 
-### All Campgrounds and their location on Map
-<img width="1431" alt="image" src="https://user-images.githubusercontent.com/60484547/216286997-dd3e9738-64dd-4396-bc3d-d99f0da730f8.png">
+### Create a campaign
+![image](https://github.com/kalrasarthak/CrowdCoin/assets/74910978/fc2cd489-286c-4044-87b0-e3f01b673b3a)
 
-### User registration
-<img width="1434" alt="image" src="https://user-images.githubusercontent.com/60484547/216287049-a33fc3f9-8df2-4494-b813-0f5d3d07fba0.png">
 
-### View and review a particular campground
-<img width="1431" alt="image" src="https://user-images.githubusercontent.com/60484547/216287742-04419992-2321-4350-9ecb-f1f0c99362a5.png">
+### Contribute to or view details about a campaign
+![image](https://github.com/kalrasarthak/CrowdCoin/assets/74910978/8523113b-37ec-4c47-aa7f-a585d2347be8)
+
+### Create or view requests
+![image](https://github.com/kalrasarthak/CrowdCoin/assets/74910978/2eefd3c0-fa02-4a6d-91ae-ebd090919a11)
+
+![image](https://github.com/kalrasarthak/CrowdCoin/assets/74910978/95134b69-7c48-4abe-8145-ab62aa0457cf)
+
+### MetaMask
+
+![image](https://github.com/kalrasarthak/CrowdCoin/assets/74910978/f7967db7-a3cd-49f9-868b-d8b33f4d6748)
